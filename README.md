@@ -9,10 +9,6 @@ Aqui de forma rapida vemos un video donde se utiliza el mismo, les dejo el La Do
 
 ![](Screenshot_56.png)
 
-
-📚 -Repositorios:
-https://github.com/JUANCITOPENA/GPS_GEOLOCATOR_XAMARIN
-
 ### ✔ No te olvides de Seguirme en mis Redes Sociales:
 
 #### 0-🎬 Youtube:https://www.youtube.com/watch?v=Kj4CMgA4sBI
