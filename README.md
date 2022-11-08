@@ -7,7 +7,7 @@ Disponible en NuGet: Xam.Plugin.Geolocator.
 
 Aqui de forma rapida vemos un video donde se utiliza el mismo, les dejo el La Documentacion adjunta en Github.
 
-![](DIAGRAMA.png)
+![](Screenshot_56.png)
 
 
 📚 -Repositorios:
