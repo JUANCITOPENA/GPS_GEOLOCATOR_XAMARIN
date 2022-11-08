@@ -11,7 +11,7 @@ Aqui de forma rapida vemos un video donde se utiliza el mismo, les dejo el La Do
 
 
 📚 -Repositorios:
-https://github.com/JUANCITOPENA/SOLUC...
+https://github.com/JUANCITOPENA/GPS_GEOLOCATOR_XAMARIN
 
 ### ✔ No te olvides de Seguirme en mis Redes Sociales:
 
